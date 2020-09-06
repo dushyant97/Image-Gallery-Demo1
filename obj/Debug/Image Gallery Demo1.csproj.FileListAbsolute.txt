@@ -1,0 +1,23 @@
+D:\Dushyant\Image Gallery Demo1\bin\Debug\Image Gallery Demo1.exe.config
+D:\Dushyant\Image Gallery Demo1\bin\Debug\Image Gallery Demo1.exe
+D:\Dushyant\Image Gallery Demo1\bin\Debug\Image Gallery Demo1.pdb
+D:\Dushyant\Image Gallery Demo1\bin\Debug\C1.C1Pdf.4.5.2.dll
+D:\Dushyant\Image Gallery Demo1\bin\Debug\C1.C1Zip.4.5.2.dll
+D:\Dushyant\Image Gallery Demo1\bin\Debug\C1.Win.4.5.2.dll
+D:\Dushyant\Image Gallery Demo1\bin\Debug\C1.Win.C1DX.4.5.2.dll
+D:\Dushyant\Image Gallery Demo1\bin\Debug\C1.Win.C1TileControl.4.5.2.dll
+D:\Dushyant\Image Gallery Demo1\bin\Debug\Newtonsoft.Json.dll
+D:\Dushyant\Image Gallery Demo1\bin\Debug\C1.C1Pdf.4.5.2.xml
+D:\Dushyant\Image Gallery Demo1\bin\Debug\C1.C1Zip.4.5.2.xml
+D:\Dushyant\Image Gallery Demo1\bin\Debug\C1.Win.4.5.2.xml
+D:\Dushyant\Image Gallery Demo1\bin\Debug\C1.Win.C1DX.4.5.2.xml
+D:\Dushyant\Image Gallery Demo1\bin\Debug\C1.Win.C1TileControl.4.5.2.xml
+D:\Dushyant\Image Gallery Demo1\bin\Debug\Newtonsoft.Json.xml
+D:\Dushyant\Image Gallery Demo1\obj\Debug\Image_Gallery_Demo1.Properties.Resources.resources
+D:\Dushyant\Image Gallery Demo1\obj\Debug\Image Gallery Demo1.csproj.GenerateResource.cache
+D:\Dushyant\Image Gallery Demo1\obj\Debug\Image Gallery Demo1.csproj.CoreCompileInputs.cache
+D:\Dushyant\Image Gallery Demo1\obj\Debug\Image Gallery Demo1.csproj.CopyComplete
+D:\Dushyant\Image Gallery Demo1\obj\Debug\Image Gallery Demo1.exe
+D:\Dushyant\Image Gallery Demo1\obj\Debug\Image Gallery Demo1.pdb
+D:\Dushyant\Image Gallery Demo1\obj\Debug\Image Gallery Demo1.exe.licenses
+D:\Dushyant\Image Gallery Demo1\obj\Debug\Image Gallery Demo1.csprojAssemblyReference.cache
